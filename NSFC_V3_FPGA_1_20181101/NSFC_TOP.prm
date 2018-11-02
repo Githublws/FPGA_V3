@@ -1,0 +1,17 @@
+PROMGEN: Xilinx Prom Generator P.20131013
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+
+promgen -w -p mcs -c FF -o E:\Temp\NSFC_V3_20181019_001\NSFCV3_FPGA_20181019\/NSFC_TOP -s 2048 -u 0 E:/Temp/NSFC_V3_20181019_001/NSFCV3_FPGA_20181019/nsfc_top.bit -spi 
+
+PROM E:\Temp\NSFC_V3_20181019_001\NSFCV3_FPGA_20181019\NSFC_TOP.prm map: Fri Oct 19 16:19:01 2018
+
+Calculating PROM checksum with fill value ff
+
+Format        Mcs86 (32-bit)
+Size          2048K
+PROM start    0000:0000
+PROM end      001f:ffff
+PROM checksum 1ab7c6a4
+
+        Addr1        Addr2                     Date File(s)
+    0000:0000    0005:327b     Oct 19 16:17:19 2018 E:/Temp/NSFC_V3_20181019_001/NSFCV3_FPGA_20181019/nsfc_top.bit

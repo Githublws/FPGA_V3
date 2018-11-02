@@ -1,0 +1,13 @@
+//! **************************************************************************
+// Written by: Map P.20131013 on Fri Oct 19 16:16:53 2018
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "REF1" LOCATE = SITE "P27" LEVEL 1;
+COMP "REF2" LOCATE = SITE "P24" LEVEL 1;
+COMP "SYN1" LOCATE = SITE "P17" LEVEL 1;
+COMP "CLK0" LOCATE = SITE "P55" LEVEL 1;
+COMP "Reset" LOCATE = SITE "P104" LEVEL 1;
+COMP "DRV1" LOCATE = SITE "P22" LEVEL 1;
+SCHEMATIC END;
+

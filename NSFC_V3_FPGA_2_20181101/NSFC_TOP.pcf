@@ -1,0 +1,11 @@
+//! **************************************************************************
+// Written by: Map P.20131013 on Thu Nov 01 16:38:45 2018
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "CLK0" LOCATE = SITE "P55" LEVEL 1;
+COMP "SYN1OUT" LOCATE = SITE "P17" LEVEL 1;
+COMP "Reset" LOCATE = SITE "P104" LEVEL 1;
+COMP "DRV2" LOCATE = SITE "P22" LEVEL 1;
+SCHEMATIC END;
+

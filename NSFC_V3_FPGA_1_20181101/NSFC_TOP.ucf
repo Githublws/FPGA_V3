@@ -1,0 +1,11 @@
+//系统时钟产生
+NET "CLK0" LOC = P55;     //CLK0
+NET "Reset" LOC = P104;
+
+//电容驱动时钟产生
+
+NET "SYN1" LOC = P17;
+NET "DRV1" LOC = P22;
+NET "REF2" LOC = P24;
+NET "REF1" LOC = P27;
+

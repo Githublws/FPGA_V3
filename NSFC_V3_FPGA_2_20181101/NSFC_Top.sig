@@ -1,0 +1,7 @@
+// PROMGEN: Xilinx Prom Generator P.20131013
+// Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+
+DATE      11/01/18-16:41
+SOURCE    E:\Temp\NSFC_V3_20181031_001\NSFC_V3_FPGA_2_20181101\NSFC_Top.mcs
+DEVICE    XCF04S
+SIGNATURE 0x02CF7076

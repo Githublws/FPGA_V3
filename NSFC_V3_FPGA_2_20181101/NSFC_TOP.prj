@@ -1,0 +1,3 @@
+verilog work "ipcore_dir/BASIC_CLOCKS.v"
+verilog work "Clockdivision.v"
+verilog work "NSFC_TOP.v"

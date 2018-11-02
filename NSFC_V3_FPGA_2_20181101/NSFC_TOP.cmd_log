@@ -1,0 +1,1072 @@
+xst -intstyle ise -ifn "E:/Temp/NSFC20171223/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171223/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171223/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171223/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171223/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171223/NSFC_TOP.syr" 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171223/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171223/NSFC_TOP.syr" 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171223/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171223/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171223/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171223/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171223/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171223/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171223/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171223/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171223/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171223/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171223/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171223/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171223/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171223/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171223/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171223/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171223/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171223/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171223/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171223/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171223/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171223/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171223/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171223/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171223/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171223/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171223/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171223/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171223/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171223/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171223/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171223/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171225/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171225/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171225/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171225/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171225/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171225/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171225/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171225/NSFC_TOP.syr" 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171225/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171225/NSFC_TOP.syr" 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171225/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171225/NSFC_TOP.syr" 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171225/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171225/NSFC_TOP.syr" 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171225/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171225/NSFC_TOP.syr" 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171225/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171225/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171225/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171225/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171225/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171225/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171225/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171225/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171225/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171225/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171225/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171225/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171225/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171225/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171225/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171225/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171225/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171225/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171225/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171225/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171225/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171225/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171225/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171225/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171225/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171225/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171225/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171225/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171225/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171225/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171225/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171225/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171225/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171225/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171225/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171225/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171225/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171225/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171225/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171225/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171225/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171225/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171225/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171225/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171225/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171225/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171226/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171226/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171226/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171226/NSFC_TOP.syr" 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171226/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171226/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171227-3/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171227-3/NSFC_TOP.syr" 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171227-3/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171227-3/NSFC_TOP.syr" 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171227-3/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171227-3/NSFC_TOP.syr" 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171227-3/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171227-3/NSFC_TOP.syr" 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171227-3/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171227-3/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171227-3/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171227-3/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171227-3/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171227-3/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171227-3/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171227-3/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171227-3/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171227-3/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171227-3/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171227-3/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171227-3/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171227-3/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171227-3/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171227-3/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171227-3/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171227-3/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171227-3/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171227-3/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171227-3/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171227-3/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171227-3/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171227-3/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171228/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171228/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171228/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171228/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171228/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171228/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171228/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171228/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171228/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171228/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171228/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171228/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171229/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171229/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171229/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171229/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171229/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171229/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171229/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171229/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171229/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171229/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171229/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171229/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171229/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171229/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171231/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171231/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171231/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171231/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171231/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171231/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171231/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171231/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171231/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171231/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171231/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171231/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171231/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171231/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171231/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171231/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171231/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171231/NSFC_TOP.syr" 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171231/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171231/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20171231/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20171231/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20180102/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20180102/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20180102/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20180102/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20180102/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20180102/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20180102/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20180102/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20180102/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20180102/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20180102/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20180102/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20180102/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20180102/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20180102/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20180102/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20180102/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20180102/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20180102/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20180102/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20180102/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20180102/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20180102/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20180102/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20180102/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20180102/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20180102/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20180102/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20180102/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20180102/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20180102/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20180102/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20180102/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20180102/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20180102/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20180102/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20180102/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20180102/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20180102/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20180102/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+xst -intstyle ise -ifn "E:/Temp/NSFC20180102/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20180102/NSFC_TOP.syr" 
+xst -intstyle ise -ifn "E:/Temp/NSFC20180102/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20180102/NSFC_TOP.syr" 
+xst -intstyle ise -ifn "E:/Temp/NSFC20180102/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20180102/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20180102/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20180102/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20180102/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20180102/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20180102/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20180102/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20180102/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20180102/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20180102/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20180102/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20180102/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20180102/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20180102/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20180102/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20180102/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20180102/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20180102/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20180102/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20180102/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20180102/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20180102/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20180102/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20180102/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20180102/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20180102/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20180102/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20180102/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20180102/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20180102/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20180102/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20180102/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20180102/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20180102/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20180102/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20180102/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20180102/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20180102/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20180102/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20180102/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20180102/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20180102/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20180102/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20180102/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20180102/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20180102/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20180102/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20180102/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20180102/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20180102/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20180102/NSFC_TOP.syr" 
+xst -intstyle ise -ifn "E:/Temp/NSFC20180102/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20180102/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20180102/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20180102/NSFC_TOP.syr" 
+xst -intstyle ise -ifn "E:/Temp/NSFC20180102/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20180102/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20180102/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20180102/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC20180102/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20180102/NSFC_TOP.syr" 
+xst -intstyle ise -ifn "E:/Temp/NSFC20180102/NSFC_TOP.xst" -ofn "E:/Temp/NSFC20180102/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC_FPGA_20180109/NSFC_TOP.xst" -ofn "E:/Temp/NSFC_FPGA_20180109/NSFC_TOP.syr" 
+xst -intstyle ise -ifn "E:/Temp/NSFC_FPGA_20180109/NSFC_TOP.xst" -ofn "E:/Temp/NSFC_FPGA_20180109/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC_FPGA_20180109/NSFC_TOP.xst" -ofn "E:/Temp/NSFC_FPGA_20180109/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC_FPGA_20180109/NSFC_TOP.xst" -ofn "E:/Temp/NSFC_FPGA_20180109/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC_FPGA_20180109/NSFC_TOP.xst" -ofn "E:/Temp/NSFC_FPGA_20180109/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC_FPGA_20180110/NSFC_TOP.xst" -ofn "E:/Temp/NSFC_FPGA_20180110/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC_FPGA_20180110/NSFC_TOP.xst" -ofn "E:/Temp/NSFC_FPGA_20180110/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC_FPGA_20180110/NSFC_TOP.xst" -ofn "E:/Temp/NSFC_FPGA_20180110/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC_FPGA_20180114/NSFC_TOP.xst" -ofn "E:/Temp/NSFC_FPGA_20180114/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC_FPGA_20180114/NSFC_TOP.xst" -ofn "E:/Temp/NSFC_FPGA_20180114/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC_FPGA_20180114/NSFC_TOP.xst" -ofn "E:/Temp/NSFC_FPGA_20180114/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC_FPGA_20180114/NSFC_TOP.xst" -ofn "E:/Temp/NSFC_FPGA_20180114/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC_FPGA_20180114/NSFC_TOP.xst" -ofn "E:/Temp/NSFC_FPGA_20180114/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC_FPGA_20180114/NSFC_TOP.xst" -ofn "E:/Temp/NSFC_FPGA_20180114/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC_FPGA_20180114/NSFC_TOP.xst" -ofn "E:/Temp/NSFC_FPGA_20180114/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC_FPGA_20180114/NSFC_TOP.xst" -ofn "E:/Temp/NSFC_FPGA_20180114/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC_FPGA_20180114/NSFC_TOP.xst" -ofn "E:/Temp/NSFC_FPGA_20180114/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC_FPGA_20180114/NSFC_TOP.xst" -ofn "E:/Temp/NSFC_FPGA_20180114/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC_FPGA_20180114/NSFC_TOP.xst" -ofn "E:/Temp/NSFC_FPGA_20180114/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC_FPGA_20180114/NSFC_TOP.xst" -ofn "E:/Temp/NSFC_FPGA_20180114/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC_FPGA_20180114/NSFC_TOP.xst" -ofn "E:/Temp/NSFC_FPGA_20180114/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC_FPGA_20180114/NSFC_TOP.xst" -ofn "E:/Temp/NSFC_FPGA_20180114/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC_FPGA_20180114/NSFC_TOP.xst" -ofn "E:/Temp/NSFC_FPGA_20180114/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC_FPGA_20180114/NSFC_TOP.xst" -ofn "E:/Temp/NSFC_FPGA_20180114/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC_FPGA_20180114/NSFC_TOP.xst" -ofn "E:/Temp/NSFC_FPGA_20180114/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC_FPGA_20180114/NSFC_TOP.xst" -ofn "E:/Temp/NSFC_FPGA_20180114/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC_FPGA_20180122/NSFC_TOP.xst" -ofn "E:/Temp/NSFC_FPGA_20180122/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC_FPGA_20180122/NSFC_TOP.xst" -ofn "E:/Temp/NSFC_FPGA_20180122/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC_FPGA_20180127/NSFC_TOP.xst" -ofn "E:/Temp/NSFC_FPGA_20180127/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP_cs.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC_V3_20181019_001/NSFCV3_FPGA_20181019/NSFC_TOP.xst" -ofn "E:/Temp/NSFC_V3_20181019_001/NSFCV3_FPGA_20181019/NSFC_TOP.syr" 
+xst -intstyle ise -ifn "E:/Temp/NSFC_V3_20181019_001/NSFCV3_FPGA_20181019/NSFC_TOP.xst" -ofn "E:/Temp/NSFC_V3_20181019_001/NSFCV3_FPGA_20181019/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+xst -intstyle ise -ifn "E:/Temp/NSFC_V3_20181019_001/NSFCV3_FPGA_20181019/NSFC_TOP.xst" -ofn "E:/Temp/NSFC_V3_20181019_001/NSFCV3_FPGA_20181019/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC_V3_20181019_001/NSFCV3_FPGA2_20181019/NSFC_TOP.xst" -ofn "E:/Temp/NSFC_V3_20181019_001/NSFCV3_FPGA2_20181019/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC_V3_20181019_001/NSFCV3_FPGA2_20181019/NSFC_TOP.xst" -ofn "E:/Temp/NSFC_V3_20181019_001/NSFCV3_FPGA2_20181019/NSFC_TOP.syr" 
+xst -intstyle ise -ifn "E:/Temp/NSFC_V3_20181019_001/NSFCV3_FPGA2_20181019/NSFC_TOP.xst" -ofn "E:/Temp/NSFC_V3_20181019_001/NSFCV3_FPGA2_20181019/NSFC_TOP.syr" 
+xst -intstyle ise -ifn "E:/Temp/NSFC_V3_20181019_001/NSFCV3_FPGA2_20181019/NSFC_TOP.xst" -ofn "E:/Temp/NSFC_V3_20181019_001/NSFCV3_FPGA2_20181019/NSFC_TOP.syr" 
+xst -intstyle ise -ifn "E:/Temp/NSFC_V3_20181019_001/NSFCV3_FPGA2_20181019/NSFC_TOP.xst" -ofn "E:/Temp/NSFC_V3_20181019_001/NSFCV3_FPGA2_20181019/NSFC_TOP.syr" 
+xst -intstyle ise -ifn "E:/Temp/NSFC_V3_20181019_001/NSFCV3_FPGA2_20181019/NSFC_TOP.xst" -ofn "E:/Temp/NSFC_V3_20181019_001/NSFCV3_FPGA2_20181019/NSFC_TOP.syr" 
+xst -intstyle ise -ifn "E:/Temp/NSFC_V3_20181019_001/NSFCV3_FPGA2_20181019/NSFC_TOP.xst" -ofn "E:/Temp/NSFC_V3_20181019_001/NSFCV3_FPGA2_20181019/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC_V3_20181019_001/NSFCV3_FPGA2_20181019/NSFC_TOP.xst" -ofn "E:/Temp/NSFC_V3_20181019_001/NSFCV3_FPGA2_20181019/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC_V3_20181019_001/NSFCV3_FPGA2_20181019/NSFC_TOP.xst" -ofn "E:/Temp/NSFC_V3_20181019_001/NSFCV3_FPGA2_20181019/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC_V3_20181031_001/NSFC_V3_FPGA_2/NSFC_TOP.xst" -ofn "E:/Temp/NSFC_V3_20181031_001/NSFC_V3_FPGA_2/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC_V3_20181031_001/NSFC_V3_FPGA_2_20181101/NSFC_TOP.xst" -ofn "E:/Temp/NSFC_V3_20181031_001/NSFC_V3_FPGA_2_20181101/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
+xst -intstyle ise -ifn "E:/Temp/NSFC_V3_20181031_001/NSFC_V3_FPGA_2_20181101/NSFC_TOP.xst" -ofn "E:/Temp/NSFC_V3_20181031_001/NSFC_V3_FPGA_2_20181101/NSFC_TOP.syr" 
+ngdbuild -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc NSFC_TOP.ucf -p xc6slx9-tqg144-3 NSFC_TOP.ngc NSFC_TOP.ngd  
+map -intstyle ise -p xc6slx9-tqg144-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -global_opt off -mt off -ir off -pr off -lc off -power off -o NSFC_TOP_map.ncd NSFC_TOP.ngd NSFC_TOP.pcf 
+par -w -intstyle ise -ol high -mt off NSFC_TOP_map.ncd NSFC_TOP.ncd NSFC_TOP.pcf 
+trce -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml NSFC_TOP.twx NSFC_TOP.ncd -o NSFC_TOP.twr NSFC_TOP.pcf -ucf NSFC_TOP.ucf 
+bitgen -intstyle ise -f NSFC_TOP.ut NSFC_TOP.ncd 
